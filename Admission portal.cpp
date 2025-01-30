@@ -1,7 +1,3 @@
-//22i-1132
-//ahmed naveed
-//cs-C
-//question 7
 
 #include<iostream>
 using namespace std;
